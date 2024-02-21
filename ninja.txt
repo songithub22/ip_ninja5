@@ -1,1 +1,1 @@
-QuyetNinja:0.tcp.ap.ngrok.io:17640:0:0
+NinjaPK:103.82.26.225:14444:0:0
